@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DJR_MediaPlayerAssignment</string>
+    <string name="back"><![CDATA[play]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+</resources>
